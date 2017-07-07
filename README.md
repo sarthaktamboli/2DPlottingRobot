@@ -10,3 +10,12 @@ The plotter uses a pen, pencil or marker to print on most sizes of paper through
 
 
 Demonstration can be found here: https://www.youtube.com/watch?v=0q8S1UCZuTU
+
+### Info
+----
+
++ *resources.zip* has all of the files required to use a C++ Graphics class
++ *sketch_it.zip* is a C++ project which allows users to input their own custom valid print request
++ The robot has two methods of input,  
+    -> Pre-determined shape from NXT  
+    -> External User Gui which communicates to the NXT
