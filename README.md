@@ -1,4 +1,4 @@
-# 2DPlottingRobot
+# SketchIt
 **1A Mechatronics Engineering Project at the University of Waterloo**
 ----
 
